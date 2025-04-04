@@ -55,25 +55,25 @@ I'm focused on developing **high-performance**, **scalable**, and **secure** dig
 
 ---
 
-### 🧑‍💼 Experience
+### 🚀 Projects
 
-**Software Engineer**  
-_Ansh Soft Tech (Remote – India) • Aug 2022 – Dec 2023_  
-- Built shopping, cart, and subscription systems in React & Node  
-- Developed admin panels for inventory, analytics, and support  
-- Integrated Paytm payment gateway with secure API protocols  
-- Optimized API performance, reducing load times by 30%
+**📱 WearOS Fitness Tracking App**  
+_A standalone smartwatch application that helps users monitor their fitness activities in real-time._  
+- Developed using **Kotlin**, **Jetpack Compose**, and WearOS APIs.  
+- Enables **step tracking, heart rate monitoring**, and syncs data with cloud.  
+- Focused on **offline functionality** and minimal battery consumption.  
 
-**Web Developer Research Intern**  
-_AlmaBetter (Remote – India) • Jan 2022 – Jul 2022_  
-- Built responsive LMS using React.js, Node.js, and REST APIs  
-- Implemented student engagement dashboard, increasing retention  
-- Enhanced search using ElasticSearch, improved course discoverability
+**🎧 ChronoBooks**  
+_A smartwatch-first audiobook player tailored for Wear OS users._  
+- Built with **Kotlin** and **Media3 Exoplayer**, with advanced playback controls.  
+- Features include **Bluetooth streaming**, **offline listening**, and **bookmarking**.  
+- Designed for an immersive audiobook experience on-the-go.
 
-**Frontend Developer Intern**  
-_Volksko Infotech • Jun 2020 – Aug 2020_  
-- Built prototype UI for eCommerce platform using React.js  
-- Improved load speed by optimizing asset bundling and lazy loading.
+**🛒 Shop For Home**  
+_A React & Node-based full-stack e-commerce platform for curated home essentials._  
+- Developed user flows like **product search**, **cart**, **coupons**, and **subscriptions**.  
+- Created **admin dashboards** for inventory management, analytics, and order processing.  
+- Integrated secure **Paytm payment gateway** and enhanced load time by 30%.
 
 ---
 
