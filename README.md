@@ -14,9 +14,9 @@
 
 ### 👨‍💻 About Me
 
-I'm **Ravindra Reddy**, a passionate and results-driven **Software Engineer** with over **2 years of professional experience** in building full-stack web and mobile applications.
+I'm **Ravindra Reddy**, a passionate and results-driven **Software Engineer** focused on building full-stack web and mobile applications.
 
-I'm focused on developing **high-performance**, **scalable**, and **secure** digital products, and I love solving real-world problems through code.
+I'm specialize in developing **high-performance**, **scalable**, and **secure** digital products, and I love solving real-world problems through code.
 
 ---
 
