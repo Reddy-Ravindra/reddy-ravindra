@@ -65,8 +65,9 @@ _A standalone smartwatch application that helps users monitor their fitness acti
 
 **🎧 ChronoBooks**  
 _A smartwatch-first audiobook player tailored for Wear OS users._  
-- Built with **Kotlin** and **Media3 Exoplayer**, with advanced playback controls.  
-- Features include **Bluetooth streaming**, **offline listening**, and **bookmarking**.  
+- Built with **Java**, **Android SDK** and **Media3 Exoplayer**, with advanced playback controls.  
+- Features include **Bluetooth streaming**, **offline listening**, and **resume playback**.
+- Uses **Deezer Public API** for real-time song previews and album art
 - Designed for an immersive audiobook experience on-the-go.
 
 **🛒 Shop For Home**  
