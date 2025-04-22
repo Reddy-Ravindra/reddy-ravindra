@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:info.ravindrareddy@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ravindra-reddy-maram"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.github.com/ravindra-reddy-maram"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/reddy-ravindra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.github.com/reddy-ravindra"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -81,8 +81,8 @@ _A React & Node-based full-stack e-commerce platform for curated home essentials
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindra-reddy-maram&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra-reddy-maram&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=reddy-ravindra&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy-ravindra&layout=compact&theme=radical" height="165">
 </p>
 
 ---
@@ -92,7 +92,7 @@ _A React & Node-based full-stack e-commerce platform for curated home essentials
 If you’d like to collaborate or just want to say hi, feel free to reach out:
 
 📩 info.ravindrareddy@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/ravindra-reddy-maram) • [GitHub](https://www.github.com/ravindra-reddy-maram)
+🌐 [LinkedIn](https://www.linkedin.com/in/reddy-ravindra) • [GitHub](https://www.github.com/reddy-ravindra)
 
 ---
 
