@@ -92,7 +92,7 @@ _A React & Node-based full-stack e-commerce platform for curated home essentials
 If you’d like to collaborate or just want to say hi, feel free to reach out:
 
 📩 info.ravindrareddy@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/reddy-ravindra) • [GitHub](https://www.github.com/reddy-ravindra)
+🌐 [LinkedIn](https://www.linkedin.com/in/reddddy-ravindra) • [GitHub](https://www.github.com/reddy-ravindra)
 
 ---
 
